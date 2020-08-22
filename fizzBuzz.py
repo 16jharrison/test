@@ -20,4 +20,4 @@ def advancedFizzBuzz(dic , lowerLimit , upperLimit):
 
 
 #checks 3,5,and 8 in a range or 50 to 250
-advancedFizzBuzz({'Fizz ':3 , 'Buzz ':5 , ' DOC Oct ':8} , 50 , 250)
+advancedFizzBuzz({'Fizz ':3 , 'Buzz ':5 , 'DOC Oct ':8} , 50 , 250)
