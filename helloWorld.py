@@ -1,5 +1,5 @@
-
+#this function prints hello world for every character in a passed word
 def helloWorld(word):
-    for char in word : print('hello world')
+    for character in word : print('hello world')
 
-helloWorld('hey')
+helloWorld('you are awesome')
